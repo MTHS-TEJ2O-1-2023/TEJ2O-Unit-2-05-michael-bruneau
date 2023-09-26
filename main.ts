@@ -2,7 +2,7 @@
  *
  * Created by: Michael B
  * Created on: Sep 2023
- * This program shows temperture in Kelvin
+ * This program shows temperature in Kelvin
 */
 
 // Variables

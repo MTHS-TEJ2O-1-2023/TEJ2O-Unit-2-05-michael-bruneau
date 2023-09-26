@@ -17,4 +17,5 @@ input.onButtonPressed(Button.A, function () {
   temperatureKelvin = temperatureCelsius + 273.15
   basic.showString('Temperature is:')
   basic.showNumber(temperatureKelvin)
+  basic.showString('K.')
 })

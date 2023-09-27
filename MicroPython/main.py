@@ -6,7 +6,7 @@ This module is a Micro:bit MicroPython program
 
 from microbit import *
 
-# our variavbles
+# our variables
 temperatureCelsius = 0
 temperatureKelvin = 0
 

@@ -21,5 +21,6 @@ input.onButtonPressed(Button.A, function () {
   temperatureKelvin = Math.round(temperatureKelvin)
 
   // output answer
+  basic.clearScreen()
   basic.showString(('The temperature is:') + (temperatureKelvin).toString() + ('K.'))
 })
